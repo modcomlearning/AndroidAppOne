@@ -29,6 +29,20 @@
                 android:textStyle="bold"
                 />
 
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Business"
+                android:id="@+id/business"
+                android:textColor="#DADBE4"
+                android:backgroundTint="#FF5722"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                />
+
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -41,8 +55,6 @@
                 android:layout_marginTop="10dp"
                 android:textStyle="bold"
                 />
-
-             <!--  STUDENTS TODO 3 MORE BUTTONS - BUSINESS, ENTERTAINMENT -->
 
 
     </LinearLayout>
